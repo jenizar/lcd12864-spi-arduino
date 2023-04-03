@@ -5,6 +5,8 @@ materials:
 
 Lcd12864 (STR7565), arduino nano, shield/breadboard, jumper cable, psu 5 - 9V.
 
+![Alt text](https://github.com/jenizar/lcd12864-spi-arduino/blob/main/lcd12864-str7565.jpeg)
+
 UNCOMMENT > U8G2_ST7565_ERC12864_F_4W_SW_SPI u8g2(U8G2_R0, /* clock=*/ 13, /* data=*/ 11, /* cs=*/ 10, /* dc=*/ 9, /* reset=*/ 8);
 
 | LCD    | Micro Controller |
